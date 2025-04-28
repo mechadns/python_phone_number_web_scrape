@@ -22,6 +22,7 @@ This repository contains a Python-based scraper designed to collect **publicly a
 |:-----|:------------|
 | `Scrapping_script.ipynb` | Jupyter Notebook containing the scraping script and all processing logic. |
 | `Enriched_Dataset.csv` | Output CSV containing the extracted and enriched phone number data. |
+| `requirements.txt` | Contains the dependencies required to run this script. |
 
 ---
 
