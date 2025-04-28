@@ -1,6 +1,6 @@
 # Phone Number Scraper
 
-This repository contains a Python-based scraper designed to collect **publicly available** phone numbers from **Google Search** results. The tool automates queries, extracts visible phone numbers, and organizes them into a structured CSV format for easy enrichment and further use.
+This repository contains a Python-based scraper designed to collect **publicly available** phone numbers from **Google Search** results. The tool automates queries, extracts visible phone numbers, and populates them into a structured CSV file for easy enrichment and further use.
 
 > ⚡️ **Disclaimer**: This tool is designed to strictly scrape publicly available phone numbers. Ensure your usage complies with Google's Terms of Service and local data privacy regulations.
 
